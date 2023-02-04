@@ -1,0 +1,19 @@
+h1 {
+  color: navy;
+  justify-content: center;
+  display: flex;
+}
+
+form {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+input {
+  margin: 5px auto;
+  padding: 5px;
+  text-align: center;
+  box-sizing: border-box;
+}
